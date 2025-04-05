@@ -1,0 +1,5 @@
+node_modules/
+.idea
+cypress/videos/
+cypress/screenshots/
+irctc-captcha-solver/__pycache__
